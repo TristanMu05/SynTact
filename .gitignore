@@ -1,0 +1,3 @@
+data/processed/*
+notebooks/.ipynb_checkpoints/*
+data/raw/*
